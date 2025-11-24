@@ -1,6 +1,6 @@
 ---
 title: "[Pintos - UserPrograme] - Register와 Memory"
-date: 2023-11-24  # 작성 날짜에 맞춰 수정하세요
+date: 2025-11-24  # 작성 날짜에 맞춰 수정하세요
 categories: [OS, Pintos]
 tags: [Operating System, Memory, Register]
 ---

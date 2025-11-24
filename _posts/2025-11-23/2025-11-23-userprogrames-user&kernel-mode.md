@@ -1,6 +1,6 @@
 ---
 title: "[Pintos] User Mode와 Kernel Mode 완벽 정리"
-date: 2023-11-23  # 작성 날짜에 맞춰 수정하세요
+date: 2025-11-23  # 작성 날짜에 맞춰 수정하세요
 categories: [OS, Pintos]
 tags: [Operating System, Kernel, User Mode, System Call]
 ---
